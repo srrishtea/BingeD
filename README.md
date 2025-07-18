@@ -1,9 +1,13 @@
-# 🚀Build a Full-Stack Responsive Movie Review Website (Frontend) | HTML, TailwindCSS, JavaScript😎🚀
+# BingeD - Movie Review Website
 
-![Movie Review Website](./images/movie_review_website.jpg)
+This is a responsive movie review website built using **HTML**, **Tailwind CSS**, and **JavaScript**. The idea is to let users browse movies, view ratings, and write short reviews.
+---
 
-Link to YouTube Video: [🚀Build a Full-Stack Responsive Movie Review Website (Frontend) | HTML, TailwindCSS, JavaScript](https://youtu.be/a9-DVNyUy2Q)
+## Tools & Technologies
 
-```javascript
-console.log("Happy Coding!!!😎🚀");
-```
+- **HTML** – basic page structure
+- **Tailwind CSS** – for styling and responsive layout
+- **JavaScript** – for adding interactivity (like submitting reviews, ratings, etc.)
+
+
+
